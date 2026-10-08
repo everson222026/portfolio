@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">IDHub, painel academico</title>
+  <desc id="desc">Previa visual anonima de um painel docente para turmas, alunos, notas e frequencia.</desc>
+  <rect width="1200" height="720" fill="#f2f5f9"/>
+  <rect width="1200" height="82" fill="#fff"/>
+  <path d="M0 81h1200" stroke="#dce3ec"/>
+  <text x="48" y="51" fill="#1c3353" font-family="Arial,sans-serif" font-size="31" font-weight="700">ID</text>
+  <text x="83" y="51" fill="#2778c4" font-family="Arial,sans-serif" font-size="31" font-weight="700">HUB</text>
+  <rect x="0" y="82" width="244" height="638" fill="#18395e"/>
+  <text x="30" y="139" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="700">PAINEL DOCENTE</text>
+  <rect x="20" y="166" width="204" height="48" rx="5" fill="#2778c4"/>
+  <text x="42" y="197" fill="#fff" font-family="Arial,sans-serif" font-size="17">Turmas</text>
+  <text x="42" y="256" fill="#cad5e3" font-family="Arial,sans-serif" font-size="17">Alunos</text>
+  <text x="42" y="308" fill="#cad5e3" font-family="Arial,sans-serif" font-size="17">Notas e atividades</text>
+  <text x="42" y="360" fill="#cad5e3" font-family="Arial,sans-serif" font-size="17">Frequencia</text>
+  <text x="286" y="150" fill="#1c2c40" font-family="Arial,sans-serif" font-size="32" font-weight="700">Suas Turmas</text>
+  <text x="286" y="182" fill="#6e7c8e" font-family="Arial,sans-serif" font-size="17">Organize o acompanhamento academico em um so lugar.</text>
+  <rect x="286" y="220" width="224" height="154" rx="8" fill="#fff" stroke="#dce3ec"/>
+  <rect x="534" y="220" width="224" height="154" rx="8" fill="#fff" stroke="#dce3ec"/>
+  <rect x="782" y="220" width="224" height="154" rx="8" fill="#fff" stroke="#dce3ec"/>
+  <rect x="1030" y="220" width="132" height="154" rx="8" fill="#fff" stroke="#dce3ec"/>
+  <g fill="#2778c4" font-family="Arial,sans-serif" font-size="15" font-weight="700">
+    <text x="310" y="260">TURMAS</text>
+    <text x="558" y="260">ALUNOS</text>
+    <text x="806" y="260">NOTAS</text>
+    <text x="1048" y="260">FREQUENCIA</text>
+  </g>
+  <g fill="#627187" font-family="Arial,sans-serif" font-size="14">
+    <text x="310" y="300">Crie e organize</text><text x="310" y="322">suas turmas.</text>
+    <text x="558" y="300">Mantenha os</text><text x="558" y="322">cadastros em ordem.</text>
+    <text x="806" y="300">Acompanhe notas</text><text x="806" y="322">e atividades.</text>
+    <text x="1048" y="300">Registre a</text><text x="1048" y="322">presenca.</text>
+  </g>
+  <rect x="286" y="410" width="876" height="252" rx="8" fill="#fff" stroke="#dce3ec"/>
+  <text x="316" y="454" fill="#1c2c40" font-family="Arial,sans-serif" font-size="21" font-weight="700">ACESSO RAPIDO</text>
+  <text x="316" y="498" fill="#627187" font-family="Arial,sans-serif" font-size="16">Turmas, alunos e acompanhamento reunidos em uma interface docente.</text>
+  <rect x="316" y="542" width="184" height="44" rx="5" fill="#2778c4"/>
+  <text x="343" y="570" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700">ADICIONAR TURMA</text>
+</svg>

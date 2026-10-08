@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Dust, Museu das Coisas Inuteis</title>
+  <desc id="desc">Conceito visual de um museu digital para objetos curiosos e sem utilidade aparente.</desc>
+  <rect width="1200" height="720" fill="#171a18"/>
+  <path d="M0 580h1200" stroke="#343a35" stroke-width="2"/>
+  <text x="72" y="111" fill="#d7fb5b" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4">UM MUSEU PARA A TRALHA</text>
+  <text x="68" y="212" fill="#f4f2e9" font-family="Arial,sans-serif" font-size="86" font-weight="700">DUST</text>
+  <text x="74" y="266" fill="#f4f2e9" font-family="Arial,sans-serif" font-size="27" font-weight="700">MUSEU DAS COISAS INUTEIS</text>
+  <text x="74" y="328" fill="#aab0a6" font-family="Arial,sans-serif" font-size="19">Objetos sem funcao pratica.</text>
+  <text x="74" y="358" fill="#aab0a6" font-family="Arial,sans-serif" font-size="19">Historias, humor e colecionismo.</text>
+  <rect x="74" y="408" width="188" height="49" rx="4" fill="#d7fb5b"/>
+  <text x="98" y="439" fill="#171a18" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">EXPLORAR COLECAO</text>
+  <rect x="564" y="129" width="544" height="388" rx="8" fill="#242a25" stroke="#4a534a" stroke-width="2"/>
+  <path d="M584 168h504" stroke="#4a534a"/>
+  <text x="598" y="155" fill="#d7fb5b" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">EXPOSICAO 001</text>
+  <ellipse cx="709" cy="414" rx="79" ry="15" fill="#111411"/>
+  <path d="M696 242c-33 19-41 55-28 101l16 49h55l12-62c8-40-14-76-55-88z" fill="#e9e2d2" stroke="#c5baa6" stroke-width="4"/>
+  <path d="M686 246l-9-33m44 29 13-34" stroke="#e9e2d2" stroke-width="8" stroke-linecap="round"/>
+  <path d="M854 241c38 21 44 57 15 91-22 26-29 47-22 69" fill="none" stroke="#d7fb5b" stroke-width="13" stroke-linecap="round"/>
+  <path d="M953 302c0-34 26-56 58-51 29 4 43 34 30 61-11 22-36 25-52 40-15 14-18 34-16 50" fill="none" stroke="#f4f2e9" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="974" cy="428" r="8" fill="#f4f2e9"/>
+  <text x="597" y="476" fill="#aab0a6" font-family="Arial,sans-serif" font-size="14">CONCEITO VISUAL · OBJETOS CURIOSOS · COMUNIDADE</text>
+</svg>
