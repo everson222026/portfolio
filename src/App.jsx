@@ -84,6 +84,7 @@ function App() {
         "/projects/baratie-reservas.png",
         "/projects/baratie-avaliacao.png",
         "/projects/baratie-informacoes.png",
+        "/projects/baratie-mais-informacoes.png",
       ],
 
       link: "https://baratiefantech.netlify.app/",
@@ -104,8 +105,6 @@ function App() {
 
       gallery: [
         "/projects/setembro-amarelo-historias.png",
-        "/projects/setembro-amarelo-como-ajudar.png",
-        "/projects/setembro-amarelo-ajuda-agora.png",
       ],
 
       link: "https://setembroamarelofan.netlify.app/",
@@ -132,6 +131,7 @@ function App() {
         "/projects/clinica-byakugou/ex.png",
         "/projects/clinica-byakugou/ex1.png",
         "/projects/clinica-byakugou/ex2.png",
+        "/projects/clinica-byakugou/ex3.png",
       ],
 
       link: "https://clinicabyakugou.netlify.app/",
