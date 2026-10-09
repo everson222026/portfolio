@@ -59,9 +59,12 @@ function App() {
 
       technologies: ["HTML", "CSS", "JavaScript", "Firebase"],
 
-      coverImage: "/projects/idhub-preview.svg",
+      coverImage: "/projects/idhub/idhub-capa.png",
 
-      gallery: ["/projects/idhub-turmas-preview.svg"],
+      gallery: [
+        "/projects/idhub/idhub-detalhe-1.png",
+        "/projects/idhub/idhub-detalhe-2.png",
+      ],
 
       link: "https://id-hub.onrender.com/docente.html",
     },
@@ -148,9 +151,24 @@ function App() {
 
       technologies: [],
 
-      coverImage: "/projects/dust-preview.svg",
+      coverImage: "/projects/dust/dust-capa.png",
 
-      gallery: ["/projects/dust-feed-preview.svg"],
+      gallery: [
+        "/projects/dust/dust-splash.png",
+        "/projects/dust/dust-inicial.png",
+        "/projects/dust/dust-acervo.png",
+        "/projects/dust/dust-menu-busca.png",
+        "/projects/dust/dust-descricao.png",
+        "/projects/dust/dust-compartilhar-perfil.png",
+        "/projects/dust/dust-cadastro.png",
+        "/projects/dust/dust-login.png",
+        "/projects/dust/dust-perfil.png",
+        "/projects/dust/dust-configuracoes.png",
+        "/projects/dust/dust-publicacoes.png",
+        "/projects/dust/dust-recuperacao.png",
+        "/projects/dust/dust-tela-publicacao.png",
+        "/projects/dust/dust-feed-comentarios.png",
+      ],
 
       link: "",
     },
